@@ -1,0 +1,77 @@
+.innerShellstyle {  
+	border: solid; 
+	border-radius: 5px 5px 70px 70px;
+	height: 200px;
+	width: 40%;
+	text-align: center;
+	float: left;
+	margin-left: 15%;
+	margin-top: 3%;
+	background-color: black;
+}
+
+.outerShellstyle {  
+	border: solid; 
+	border-radius: 90px 90px 5px 5px;
+	height: 300px;
+	width: 70%;
+	text-align: left;
+	background-color: #767676; 
+	color: #767676;
+}
+
+.labelStyle {
+	color: white;
+	margin-right: 85%;
+	margin-top: ;
+
+}
+
+.labelStyleAuto {
+	color: white;
+	margin-right: 85%;
+	margin-top: -10%;
+
+}
+
+.labelStyleScreen {
+	color: #FF3333;
+	font-size: 72px;
+	margin-bottom: 10%;
+	background-color: #AF4035;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.dotStyle {
+	background-color: #FF3333;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	margin-left: 25px;
+	float: left;
+}
+
+.amfm1 {
+	color: white;
+	margin-right: 85%;
+	margin-left: 20%;
+
+}
+
+.amfm2 {
+	color: white;
+	margin-right: 85%;
+	margin-left: 20%;
+	margin-top: -5%;
+}
+
+
+.amfmNum {
+	color: white;
+	display: block;
+
+}
